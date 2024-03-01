@@ -1,0 +1,1 @@
+mahout recommenditembased --similarityClassname SIMILARITY_PEARSON_CORRELATION --input /jester_ratings.dat --output /the_output --numRecommendations 10 --usersFile users_file.txt
